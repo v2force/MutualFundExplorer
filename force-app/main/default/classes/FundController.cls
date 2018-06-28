@@ -1,5 +1,5 @@
 global with sharing class FundController {
-    
+//new    
     public class PagedResult {
         
         @AuraEnabled
